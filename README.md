@@ -1,4 +1,4 @@
-# Here are collected physics assignments that were solved by me and my classmates in the second year of the second semester.
+# Here are collected physics assignments that were solved by me and my classmates([Igor Arkhipov](https://github.com/Ulukele), [Kostya Rybaloko](https://github.com/punch-bob)) in the second year of the second semester.
 
 
 ## biprisma_intensity:
