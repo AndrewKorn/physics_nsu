@@ -7,7 +7,7 @@ modeling the behavior of light waves passing through the Fresnel biprism and plo
 ## biprisma_heatmap:
 investigation of the probability of finding imaginary light sources in the Fresnel biprism problem
 
-## defraction_grid_visualisation
+## defraction_grid_visualisation:
 Checking the overlap of the spectra of the first and second orders of the diffraction grating when illuminated by visible light($\lambda = 400nm\space\div\space700nm$)
 
 ## particle_in_finite_hole:
