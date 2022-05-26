@@ -8,7 +8,7 @@ modeling the behavior of light waves passing through the Fresnel biprism and plo
 investigation of the probability of finding imaginary light sources in the Fresnel biprism problem
 
 ## defraction_grid_visualisation:
-Checking the overlap of the spectra of the first and second orders of the diffraction grating when illuminated by visible light($\lambda = 400nm\space\div\space700nm$)
+Checking the overlap of the spectra of the first and second orders of the diffraction grating when illuminated by visible light($\lambda = 400nm\div700nm$)
 
 ## particle_in_finite_pit:
 modeling the behavior of a quantum particle in a finite potential well. Construction of energy levels and corresponding wave functions
