@@ -12,3 +12,6 @@ Checking the overlap of the spectra of the first and second orders of the diffra
 
 ## particle_in_finite_pit:
 modeling the behavior of a quantum particle in a finite potential well. Construction of energy levels and corresponding wave functions
+
+## rectangular_pulses:
+study of the behavior of an electrical circuit with a diode when periodic rectangular pulses are applied
